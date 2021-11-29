@@ -1,3 +1,3 @@
 # bdse-team1-data-preprocessing
-- 鉅亨網台股股價及新聞爬蟲
+- yfinance台股股價及鉅亨網新聞爬蟲
 - 彙整清洗後存檔
